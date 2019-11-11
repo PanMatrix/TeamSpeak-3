@@ -1,0 +1,1 @@
+.overlay-header.show{opacity:1;-webkit-transform:translateY(0);transform:translateY(0)}.overlay-header{top:0;right:0;bottom:0;left:0;background-color:#fff;opacity:0;transition:transform .2s ease-in-out,opacity .2s ease-in-out,-webkit-transform .2s ease-in-out;-webkit-transform:translateY(-100%);transform:translateY(-100%);will-change:opacity,transform}
